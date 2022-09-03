@@ -212,6 +212,14 @@ msgstr "UPnP 租约文件"
 msgid "Universal Plug & Play"
 msgstr "通用即插即用（UPnP）"
 
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:181
+msgid "Force Forwarding"
+msgstr "强制转发"
+
+#: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:182
+msgid "Force forwarding even there is no public IP (please try STUN first)"
+msgstr "即使没有公网 IP 也进行转发（请先尝试 STUN）"
+
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:60
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:56
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:100
